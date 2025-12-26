@@ -1,0 +1,13 @@
+# Node2D
+# ├── Player1 (Kira)
+# ├── Player2 (Art)
+# ├── HUD
+# ├── Enemy1
+# ├── Enemy2
+# └── GuitarTeacher
+
+# Main script (Main.gd) misol
+extends Node2D
+
+func _ready():
+    print("Heroes of Envell 2D o'yini ishga tushdi!")
